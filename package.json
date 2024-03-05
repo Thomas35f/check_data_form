@@ -1,0 +1,14 @@
+{
+  "name": "check_data_form",
+  "version": "1.0.0",
+  "description": "Un petit utilitaire qui vérifie les données transmises via un formulaire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mydigitalschool"
+  ],
+  "author": "Thomas Réty",
+  "license": "ISC"
+}
